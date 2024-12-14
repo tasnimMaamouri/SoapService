@@ -1,0 +1,4 @@
+org\sid\ing\soaptp\App.class
+ws\EmissionService.class
+ws\Emission.class
+ws\ServerJaxWS.class
